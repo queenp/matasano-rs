@@ -1,0 +1,11 @@
+[package]
+name = "matasano"
+version = "0.1.0"
+authors = ["consultant"]
+
+[dependencies]
+base64 = "0.9"
+hex = "0.3"
+lazysort = "0.2"
+slice_stripes = { git = "https://github.com/queenp/slice-stripes.git" }
+rust-crypto = "0.2"
